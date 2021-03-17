@@ -69,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # react-redux
+
+**What is Redux?**
+## Redux: 
+A `container` where you can `store` your whole application data.
+So we call it to `State management tool`.
+It doesn't belong to the component state.
