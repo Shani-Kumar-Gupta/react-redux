@@ -72,6 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 **What is Redux?**
 ## Redux: 
-A `container` where you can `store` your whole application data.
-So we call it to `State management tool`.
-It doesn't belong to the component state.
+> A `container` where you can `store` your whole application data.
+> So we call it to `State management tool`.
+> It doesn't belong to the component state.  
+
+MORE INFO HERE: [https://redux.js.org/]
